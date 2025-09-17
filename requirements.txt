@@ -1,2 +1,2 @@
-pip install streamlit pymupdf
-streamlit run app.py
+streamlit>=1.37.0
+pymupdf>=1.24.9
